@@ -1,7 +1,11 @@
 body {
   background-color: #f5dfe2;
   overflow-x: hidden;
+<<<<<<< HEAD
   padding-top: 50px;
+=======
+  padding-top: 60px;
+>>>>>>> ce65afe7f5e7fcd15f8258b0f595281952255c0d
 }
 
 .body-container {
