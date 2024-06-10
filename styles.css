@@ -28,6 +28,7 @@ h2 {
 
 h1 {
   font-size: 28px;
+  margin-top: -1px;
 }
 
 h2 {
@@ -36,7 +37,7 @@ h2 {
 
 p {
   font-size: 13px;
-  margin-top: -5px;
+  margin-top: -8px;
 }
 
 .black-bold-text,
